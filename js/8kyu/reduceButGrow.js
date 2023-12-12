@@ -3,4 +3,4 @@
 // [1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24
 
 // My solution
-const grow = x => x.reduce((a,c) => a * c ,1)
+const grow = x => x.reduce((a,c) => a * c ,1) 
